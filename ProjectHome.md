@@ -1,0 +1,1 @@
+I hope for the calculator to be an all inclusive package. All related information from the different codices will be present.
